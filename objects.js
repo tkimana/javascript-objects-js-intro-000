@@ -1,3 +1,1 @@
-function removeFromPlaylist(playlist, artistName) {
-  delete playlist[artistName]
-}
+var playlist = { reague: "no women no cry" }
